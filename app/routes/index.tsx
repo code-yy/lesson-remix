@@ -62,8 +62,6 @@ export default function Index() {
     <div className="remix__page">
       <main>
         <h2>Welcome to Remix!</h2>
-        <h2>Welcome to Remix!</h2>
-        <h2>Welcome to Remix!</h2>
         <p>We're stoked that you're here. 🥳</p>
         <p>
           Feel free to take a look around the code to see how Remix does things,
